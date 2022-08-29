@@ -1,0 +1,37 @@
+{
+    "name": "chazki-inc/plugin-integracion-magento-tonny",
+    "description": "Shipping Method",
+    "keywords": [
+        "magento 2",
+        "magento 2 extension",
+        "chazki"
+    ],
+    "require": {
+        "php": "~7.3.0||~7.4.0",
+        "magento/framework": "102.0.7",
+        "magento/module-backend": "101.0.7",
+        "magento/module-catalog": "103.0.7",
+        "magento/module-checkout": "100.3.7",
+        "magento/module-config": "101.1.7",
+        "magento/module-directory": "100.3.7",
+        "magento/module-quote": "101.1.7",
+        "magento/module-sales": "102.0.7",
+        "magento/module-sales-rule": "101.1.7",
+        "magento/module-shipping": "100.3.7",
+        "magento/module-store": "101.0.7"
+    },
+    "type": "magento2-module",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Chazki\\ChazkiArg\\": ""
+        }
+    },
+    "version": "1.0.0"
+}
