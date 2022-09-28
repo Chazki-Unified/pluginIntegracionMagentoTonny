@@ -36,4 +36,6 @@ Con los pasos anteriores ya estaria configurado, y el usuario final debe hacer e
 Llenar los campos de ```Shipping Information``` donde se debe seleccionar en el select a ```Chazki``` de forma obligatoria, sino no hara la peticion de forma correcta al api de tony, solo se cambiaria el Number (del trackCode), que se recomienda poner por el numero que aparece al comienzo de la pagina donde dice ```Order # 000000N (The order confirmation email is not sent)```.
 
 Para mas detalle de los pasos mencionados anteriro con imagenes incluidos, revise el siguiente pdf
+https://docs.google.com/document/d/1wM-f6IQPDeqAD-kRdmWY7vO1mDoA_5IsD1CHnMqh7eA/edit?usp=sharing
 
+Si no se puede acceder al siguiente link, consultarle a George para que les brinde los persmisos y/o accesos a la carpeta para poder hacer la lectura de el.
