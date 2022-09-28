@@ -15,6 +15,9 @@ bin/magento setup:di:compile
 bin/magento module:status Chazki_ChazkiArg
 sudo chmod -R 777 .
 ```
+
+# Cómo configurar la extensión?
+
 Luego entrar al dashboard de admin, (la uri te dan al terminar de instalar el proyecto base de magento, sino lo guardaste, se encuentra guardado en el archivo nombreProyecto/app/etc/env.php, en la linea 4 generalmente 
 ``` 
 'frontName' => 'uri' 
